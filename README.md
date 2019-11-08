@@ -1,4 +1,5 @@
 # valid-https-mac-for-aws-elb
+Based on https://stackoverflow.com/questions/7580508/getting-chrome-to-accept-self-signed-localhost-certificate/43666288#43666288
 light weight tutorial for having secure connection from you mac to aws elb
 
 1. Create root cert authority:
